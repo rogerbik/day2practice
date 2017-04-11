@@ -1,0 +1,35 @@
+
+.header {
+  height: 100px;
+  background-color: #0000ff;
+  border: 2px solid #000;
+}
+
+.green {
+  height: 25px;
+  background-color: #008000;
+  border: 2px solid #000;
+}
+
+.content {
+  height: 150px;
+  background-color: #ff0000;
+  border: 2px solid #000;
+}
+
+.aside {
+  height: 150px;
+  background-color: #808080;
+  border: 2px solid #000;
+}
+
+.promo {
+  height: 125px;
+  background-color: #ffa500;
+  border: 2px solid #000;
+}
+
+.footer {
+  height: 25px;
+  background-color: #000000;
+}
